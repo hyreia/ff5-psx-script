@@ -25,7 +25,7 @@ Users must extract FF5_MESS.BIN from their own legally obtained copy of Final Fa
 
 # What is currently unknown
 
-where the rest of the text in-game is located.
+Where the rest of the text in-game is located.
 There's stuff pertaining to character names and jobs in DEO.BIN and monsters might be in BTL\FF5_BTL2.BIN 
 I don't know where item names or monster names are located. 
 
@@ -40,3 +40,6 @@ Currently it includes:
 * Download the patch from the /patch directory
 * Legally acquire Final Fantasy V (J) [T+Eng1.1_RPGe].smc (It might work with others, but it expects the expanded RPGe ROM)
 * Apply patch with Lunar IPS 
+
+# The unofficial RPGe script compared to the official Playstation Anthology script:
+https://docs.google.com/spreadsheets/d/10kWyhaSkz3ZOLB6XqFbLZChQoSeLQq03tq150Xaf7I4/edit?usp=sharing
