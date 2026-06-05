@@ -34,3 +34,9 @@ I don't know where item names or monster names are located.
 Currently it includes:
 * The script ripped from the Playstation
 * Monster, Character, Location and Job Names manually added from online sources (finalfantasy.fandom.com)
+
+# How to Use the Patch:
+* Get a patching program such as Lunar IPS
+* Download the patch from the /patch directory
+* Legally acquire Final Fantasy V (J) [T+Eng1.1_RPGe].smc (It might work with others, but it expects the expanded RPGe ROM)
+* Apply patch with Lunar IPS 
