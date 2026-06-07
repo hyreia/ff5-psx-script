@@ -10,6 +10,11 @@ NAR/FF5_MESS.BIN
 
 contains the game's script in a format that closely corresponds to the RPGe SNES translation. After decoding, most dialogue lines can be aligned directly with the RPGe script, aside from two large blocks of padding data.
 
+```
+BTL/FF5_BTL.BIN
+```
+Contains all text that appears in battle as well as monster data (stat blocks and probably formations too.)
+
 This repository contains:
 
 * Documentation of the text format
@@ -20,26 +25,25 @@ This repository contains:
 
 No game files are distributed.
 
-Users must extract FF5_MESS.BIN from their own legally obtained copy of Final Fantasy V.
-
+Currently the patch includes:
+* The dialogue ripped from the Playstation
+* The monsters, abilities, spells... pretty much all text that appears in battle taken directly from the PS1 disc (very minor changes were made to fit a few in)
+* Character names changed to match the PS1 Script
 
 # What is currently unknown
+* Where the job ability descriptions and item descriptions are. They're around here somewhere. Maybe DEO.BIN? It might be a mercy to leave them as-is so that you can recognize them.
+* Monster formations, I guess?
+* Where a lot of non-script stuff is stored, that's not part of this exercise or mod.
 
-Where the rest of the text in-game is located.
-There's stuff pertaining to character names and jobs in DEO.BIN and monsters might be in BTL\FF5_BTL2.BIN 
-I don't know where item names or monster names are located. 
-
-* The IPS patch includes the current work at backporting the "interesting" translation of everything else from the game as well
-
-Currently it includes:
-* The script ripped from the Playstation
-* Monster, Character, Location and Job Names manually added from online sources (finalfantasy.fandom.com)
 
 # How to Use the Patch:
 * Get a patching program such as Lunar IPS
-* Download the patch from the /patch directory
+* Download the patch (Final Fantasy V Anthology Script.ips)
 * Legally acquire Final Fantasy V (J) [T+Eng1.1_RPGe].smc (It might work with others, but it expects the expanded RPGe ROM)
 * Apply patch with Lunar IPS 
 
 # The unofficial RPGe script compared to the official Playstation Anthology script:
 https://docs.google.com/spreadsheets/d/10kWyhaSkz3ZOLB6XqFbLZChQoSeLQq03tq150Xaf7I4/edit?usp=sharing
+
+# I am not responsible for any breaking or damage you do with this.
+That said, this is purely a text hack so if your game crashes you can try moving your save file to a clean RPGe translation. It should work fine. 
