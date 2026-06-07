@@ -37,7 +37,7 @@ Currently it includes:
 
 # How to Use the Patch:
 * Get a patching program such as Lunar IPS
-* Download the patch from the /patch directory
+* Download the patch (Final Fantasy V Anthology Script.ips)
 * Legally acquire Final Fantasy V (J) [T+Eng1.1_RPGe].smc (It might work with others, but it expects the expanded RPGe ROM)
 * Apply patch with Lunar IPS 
 
