@@ -63,8 +63,8 @@ https://docs.google.com/spreadsheets/d/10kWyhaSkz3ZOLB6XqFbLZChQoSeLQq03tq150Xaf
 ### I am not responsible for any breaking or damage you do with this.
 That said, this is purely a text hack so if your game crashes you can try moving your save file to a clean RPGe translation. It should work fine. 
 
-[![Sample 1](https://imgur.com/5foe2VR)](https://imgur.com/5foe2VR)
+[![Sample 1](https://i.imgur.com/5foe2VR.png)](https://i.imgur.com/5foe2VR.png)
 
-[![Sample 2](https://imgur.com/hkRyexW)[https://imgur.com/hkRyexW]
+[![Sample 2](https://i.imgur.com/hkRyexW.png)[https://i.imgur.com/hkRyexW.png]
 
-[![Sample 3](https://imgur.com/srJN1rI)[https://imgur.com/srJN1rI]
+[![Sample 3](https://i.imgur.com/srJN1rI.png)[https://i.imgur.com/srJN1rI.png]
