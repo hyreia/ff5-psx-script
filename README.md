@@ -35,6 +35,21 @@ No game files are distributed.
 * Where the job ability descriptions and item descriptions are. They're around here somewhere. Maybe DEO.BIN? It might be a mercy to leave them as-is so that you can recognize them.
 * Monster formations, I guess?
 * Where a lot of non-script stuff is stored, that's not part of this exercise or mod.
+* How to patch the standard (J)+RPGe one? I had to use an unusual rom that isn't the one I usually play.
+
+# Expected Rom Patch:
+My main current issue and why I haven't submitted it yet is right now I think the IPS patch expects a non-standard ROM? Not the typical clean (J)+RPGe patch. 
+
+I used FF5e_Text_Editor v1.07 from the utilities and had to search to find a ROM that worked with it (called Final Fantasy V (J) [T+Eng1.1_RPGe].smc) 
+
+The expected ROM has the following hash:
+File MD5      5245A6ED780D896F416CC8824AA36182        
+File SHA-1    8D5A83770C3D6F2B29B7825B5A17434616EC1C60
+File CRC32    17444605                                
+ROM MD5       5245A6ED780D896F416CC8824AA36182        
+ROM SHA-1     8D5A83770C3D6F2B29B7825B5A17434616EC1C60
+ROM CRC32     17444605
+
 
 ## How to Use the Patch:
 * Get a patching program such as Lunar IPS
@@ -53,5 +68,3 @@ That said, this is purely a text hack so if your game crashes you can try moving
 [![Sample 2](https://imgur.com/hkRyexW)[https://imgur.com/hkRyexW]
 
 [![Sample 3](https://imgur.com/srJN1rI)[https://imgur.com/srJN1rI]
-
-
